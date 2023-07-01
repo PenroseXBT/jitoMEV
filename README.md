@@ -7,7 +7,7 @@ All included crates are from the [Jito Labs](https://github.com/jito-labs) and [
 ## Setting up
 
 ```base
-git clone PenroseXBT/mev-bot/
+git clone 
 cd mev-bot/
 git submodule update --init --recursive
 cargo build
