@@ -8,7 +8,7 @@ All included crates are from the [Jito Labs](https://github.com/jito-labs) and [
 
 ```base
 git clone 
-cd mev-bot/
+cd jitoMEV/
 git submodule update --init --recursive
 cargo build
 ```
